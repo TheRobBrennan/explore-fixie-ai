@@ -70,6 +70,9 @@ Once our app has been created, simply navigate to the appropriate directory and 
 # Make sure you are in the appropriate directory
 % cd demo-nextjs-with-fixie-ai-sidekick
 
+# Install Fixie.AI dependencies
+% npm install fixie --save
+
 # Start your local development server
 % npm run dev
 ```
