@@ -2,7 +2,7 @@ import Image from 'next/image'
 import styles from './page.module.css'
 
 // Fixie.AI components
-import { FloatingEmbed } from '@/components/fixie'
+import { FloatingEmbed, InlineEmbed } from '@/components/fixie'
 
 export default function Home() {
   return (
@@ -35,14 +35,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
+        <InlineEmbed width={600} height={600} />
       </div>
 
       <div className={styles.grid}>
