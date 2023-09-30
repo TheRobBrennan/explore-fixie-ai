@@ -1,0 +1,19 @@
+{
+  "name": "explore-fixie-ai",
+  "version": "0.0.0",
+  "description": "This project has been created to explore development with [Fixie.AI Sidekicks](https://docs.ai-jsx.com/sidekicks/sidekicks-quickstart) and [AI.JSX](https://docs.ai-jsx.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/explore-fixie-ai.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/explore-fixie-ai/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/explore-fixie-ai#readme"
+}
