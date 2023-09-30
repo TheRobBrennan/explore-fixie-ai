@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className={styles.description}>
         <p>
-          DEMO: Get started by editing&nbsp;
+          Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
       </div>
