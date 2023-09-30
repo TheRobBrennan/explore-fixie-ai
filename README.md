@@ -64,7 +64,7 @@ Success! Created demo-nextjs-with-fixie-ai-sidekick at /Users/rob/repos/explore-
 
 ```
 
-Once our app has been created, simply navigate to the appropriate directory and start your Next.js development server:
+Once our app has been created, simply navigate to the appropriate directory and make sure you have the proper dependencies installed before starting your Next.js development server:
 
 ```sh
 # Make sure you are in the appropriate directory
@@ -72,6 +72,8 @@ Once our app has been created, simply navigate to the appropriate directory and 
 
 # Install Fixie.AI dependencies
 % npm install fixie --save
+
+# Update demo-nextjs-with-fixie-ai-sidekick/src/components/fixie/index.ts with your Fixie.AI Sidekick details
 
 # Start your local development server
 % npm run dev
