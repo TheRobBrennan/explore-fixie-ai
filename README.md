@@ -13,6 +13,9 @@ If you'd like to see the fastest path to getting a Fixie.AI Sidekick up and runn
 
 ### Static HTML page with an embedded Fixie.AI Sidekick iframe
 
+![](./demo-html-with-fixie-ai-sidekick/__screenshots__/01-html-default.png)
+![](./demo-html-with-fixie-ai-sidekick/__screenshots__/02-html-example-sidekick-interaction.png)
+
 To embed our Fixie.AI Sidekick in our static HTML page, we can create an inline frame (iframe):
 
 ```html
@@ -33,6 +36,12 @@ To embed our Fixie.AI Sidekick in our static HTML page, we can create an inline 
 ```
 
 ### Next.js application with an embedded Fixie.AI Sidekick
+
+![](./demo-nextjs-with-fixie-ai-sidekick/__screenshots__/01-nextjs-default.png)
+![](./demo-nextjs-with-fixie-ai-sidekick/__screenshots__/02-nextjs-floating-embed.png)
+![](./demo-nextjs-with-fixie-ai-sidekick/__screenshots__/02a-nextjs-floating-embed.png)
+![](./demo-nextjs-with-fixie-ai-sidekick/__screenshots__/02b-nextjs-floating-embed.png)
+![](./demo-nextjs-with-fixie-ai-sidekick/__screenshots__/03-nextjs-inline-embed.png)
 
 This example will use [create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app) to create an example [Next.js](https://nextjs.org/) application to show how we can embed our example [Fixie.AI Sidekick](https://docs.ai-jsx.com/sidekicks/sidekicks-quickstart) within a React application.
 
